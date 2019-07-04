@@ -9,7 +9,7 @@ __Note:__ A lot of this project it's based on the work/projects of the following
 * Kevin Mehall - [nRF24L01-buspirate](https://github.com/kevinmehall/nRF24L01-buspirate)
 * Samy Kamkar - [KeySweeper] (https://github.com/samyk/keysweeper)
 * Travis Goodspeed - [Original research to enable sniffing for the NRF24L01](https://travisgoodspeed.blogspot.com/2011/02/promiscuity-is-nrf24l01s-duty.html)
-* Marcus Meng (@mame82) for his help/advice
+* Marcus Mengs - for his help/advice. Twitter: @mame82
 * Bastille Threat Research Team - [RFStorm nRF24LU1+ Research Firmware](https://github.com/BastilleResearch/nrf-research-firmware) 
 * Robin2 - [Arduino examples for the NRF24L01](https://forum.arduino.cc/index.php?topic=421081.0)
 
