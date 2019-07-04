@@ -1,6 +1,6 @@
 import sys
 import time
-sys.path.append('/home/nahu/Projects/nrf24L01/nrf24L01-Pirate')
+sys.path.append('../')
 from nrf24l01 import *
 
 nrf = nrf24L01('/dev/ttyUSB0')
